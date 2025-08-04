@@ -1,6 +1,6 @@
 # Aula sobre Random Forest
 
-📺 **[Assista ao vídeo completo no YouTube!](https://youtu.be/iFv2-PLhKHw)** 📺
+📺 **[Assista ao vídeo completo no YouTube!](https://youtu.be/DimR3m1pgfI)** 📺
 
 ### 🎯 Sobre o Projeto
 
